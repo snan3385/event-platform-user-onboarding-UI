@@ -1,0 +1,13 @@
+.Form-header {
+    background-color:#8a9bbd;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+/*#282c34*/
+/*#8a9bbd*/
